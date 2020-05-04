@@ -13,4 +13,4 @@
 * Soyabean.csv - Dataset used for analysis
 
 
-*This is a term project for the course of Data Analytics.*
+*This is a term project submitted for the course evaluation of Data Analytics(CS40003) at IIT Kharagpur*
