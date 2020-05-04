@@ -6,7 +6,7 @@
 
 ### Dataset(for classification) : Soyabean
 
-## To run the project: 
+### To run the project: 
 $ python3 DA.py
 
 This is a term project for the course of Data Analytics.
