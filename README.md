@@ -1,4 +1,4 @@
-# Decision-Tree-Classifier
+# Decision-Tree-Classifier via CART Algorithm
 
-To run: 
-$python3 DA.py
+##To run: 
+$ python3 DA.py
