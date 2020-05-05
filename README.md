@@ -9,7 +9,6 @@
 
 ### Description:
 * DA.py -  Main Project Script
-* Report.pdf - Final Submission Project Report
 * Soyabean.csv - Dataset used for analysis
 
 
